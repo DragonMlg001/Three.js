@@ -1,0 +1,8 @@
+Model Information:
+* title:	Tractor Free
+* source:	https://sketchfab.com/3d-models/tractor-free-13d105d4274b4e14ba8b19261db50ff4
+* author:	woodIggy3D (https://sketchfab.com/woodIggy3D)
+
+Model License:
+* license type:	SKETCHFAB Standard (https://sketchfab.com/licenses)
+* requirements:	Under basic restrictions, use worldwide, on all types of media, commercially or not, and in all types of derivative works
