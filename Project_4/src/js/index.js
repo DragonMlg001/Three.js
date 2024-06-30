@@ -19,7 +19,6 @@ window.innerWidth / window.innerHeight,
 0.1,
 1000
 );
-
 const orbit = new OrbitControls(camera, canvas);
 camera.position.set(0, 0, 15);
 orbit.update();
